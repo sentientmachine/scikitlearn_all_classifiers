@@ -1,12 +1,17 @@
 # scikitlearn_all_classifiers
 
-For Linux:
+Demoed on Linux:
 
 # Libraries to install
 
     pip install -U scikit-learn
 
-Program output
+
+# Run it: 
+
+    python main.py
+    
+# Program output
 
 ![Imgur](https://i.imgur.com/uYNKozw.png)
 
